@@ -1,5 +1,5 @@
 Install dependencies :- 
->> cd hardhat_frontend/
+>> cd hardhat_frontend/ 
 >> npm install --save-dev hardhat
 >> npm install
 >> cd my-app
